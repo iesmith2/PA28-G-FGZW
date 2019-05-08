@@ -2,7 +2,7 @@
 
 ## JustFlight PA28A Warrior II Livery for X-Plane
 
-An Piper Warrior II livery for X-Plane 11, based loosely on the real-life N9371K. To install, copy all files as-is to your 'X-Plane\Aircraft\JF_PA28_Warrior_II\liveries folder'.
+A Piper Warrior II livery for X-Plane 11, based loosely on the real-life [N9371K](http://www.steveweaver.com/n9371k.htm). To install, copy the GFGZW_F folder to your 'X-Plane\Aircraft\JF_PA28_Warrior_II\liveries folder'.
 
 ## Changes
 
